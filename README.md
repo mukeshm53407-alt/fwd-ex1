@@ -172,7 +172,7 @@ httpd.serve_forever()
 
 
 ## OUTP!
-[](<../Screenshot 2026-10-24 143055.png>)UT:
+[](<Screenshot 2026-10-24 143055.png>)UT:
 
 
 ## RESULT:
